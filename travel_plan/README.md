@@ -1,1 +1,1 @@
-This algorithm focuses on optimal tour route planning.
+This project focuses on optimizing tour route planning.
